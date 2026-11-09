@@ -1,0 +1,15 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "attachmentFolderPath": "assets",
+  "newFileLocation": "root",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "promptDelete": true,
+  "userIgnoreFilters": [],
+  "showIndentGuide": true
+}

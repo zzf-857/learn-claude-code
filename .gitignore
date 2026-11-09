@@ -233,3 +233,11 @@ test_providers.py
 # Internal analysis artifacts (not learning material)
 analysis/
 analysis_progress.md
+
+# LKNotes (Obsidian) — sync notes via Git; ignore machine-local UI state
+LKNotes/.obsidian/workspace.json
+LKNotes/.obsidian/workspace-mobile.json
+LKNotes/.obsidian/workspaces.json
+LKNotes/.obsidian/plugins/
+LKNotes/.obsidian/themes/
+LKNotes/.trash/
